@@ -1,0 +1,3 @@
+== README
+
+Sample todo app made with Rails
